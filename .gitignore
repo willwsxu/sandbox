@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+.vs/sandbox/*
+*Debug*
+*generated*
+*.vcxproj.user
+*.sqlite
+**WorkspaceState.json
+*.suo
+*.VC.db
+*.ipch
+*projectSettings.json
